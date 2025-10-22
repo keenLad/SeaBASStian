@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/MainScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 75ed5e2ea7d104dfab5590d3c5e255f4
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: e00a2be34eb7041fdbc2a30f9b6ab6da, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 79c4d19d05fc94e2591002d80ecbf899, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
