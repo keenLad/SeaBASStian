@@ -69,6 +69,10 @@ Important entries from `Packages/manifest.json`:
 
 Full manifest can be found at `Packages/manifest.json`.
 
+## Settings
+- You can set the number of `ListView` items to instantiate under the `Scroll View` element in the `TabView` hierarchy.  
+- You can set the number of objects for static (`StaticContent`) and animated (`DynamicContent`) items in the animation tab under the `AnimationView` hierarchy.
+
 ## Contributing
 
 If you want to contribute:
