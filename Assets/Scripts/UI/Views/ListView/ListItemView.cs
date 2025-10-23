@@ -21,7 +21,7 @@ public class ListItemView : MonoBehaviour
 
     private void Start()
     {
-        if(null == _label)
+        if (null == _label)
         {
             _label = GetComponent<TMP_Text>();
         }
